@@ -89,3 +89,15 @@
   <li>Exercise 02 – Rooms</li>
 </ul>
 <p></p>
+<h2>Rush 00: Console Game & Maven</h2>
+<p>Takeaways: Today you will implement quite a complicated game business process using Maven build tool</p>
+<ul>
+  <li>Exercise 00 – Surrender, You're Surrounded</li>
+</ul>
+<p></p>
+<h2>Rush 01: Java FX & Sockets</h2>
+<p>Takeaways: Today you will implement an actual client/server game with a full-scale interface</p>
+<ul>
+  <li>Exercise 00 – Tanks!</li>
+</ul>
+<p></p>
