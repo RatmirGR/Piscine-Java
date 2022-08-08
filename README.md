@@ -1,5 +1,5 @@
 # Piscine-Java
-<h2>Day 00: Management structures and arrays</h2>
+<h2>Day 00: Management structures and arrays - <a href="https://github.com/RatmirW/Piscine-Java/tree/main/d00">Project_00</a></h2>
 <p>Takeaways: Today, you will learn the basics of solving both trivial and more challenging business tasks using basic Java language constructs.</p>
 <ul>
   <li>Exercise 00 – Sum of Digits</li>
@@ -9,7 +9,6 @@
   <li>Exercise 04 – A Bit More of Statistics</li>
   <li>Exercise 05 – Schedule</li>
 </ul>
-<p><a href="https://github.com/RatmirW/Piscine-Java/tree/main/d00">Project_00</a></p>
 <p></p>
 <h2>Day 01: OOP/Collections</h2>
 <p>Takeaways: Today you will learn how to model the operation of various collections correctly, and create a full-scale money transfer application</p>
