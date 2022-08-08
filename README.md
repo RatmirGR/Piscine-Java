@@ -1,5 +1,6 @@
 # Piscine-Java
 <h2>Day 00: Management structures and arrays</h2>
+<p><a href="https://github.com/RatmirW/Piscine-Java/tree/main/d00">Project_00</a></p>
 <p>Takeaways: Today, you will learn the basics of solving both trivial and more challenging business tasks using basic Java language constructs.</p>
 <ul>
   <li>Exercise 00 – Sum of Digits</li>
