@@ -89,13 +89,13 @@
   <li>Exercise 02 – Rooms</li>
 </ul>
 <p></p>
-<h2>Rush 00: Console Game & Maven - <a href="https://github.com/RatmirW/Piscine-Java/tree/main/rush00">Project_10</a></h2>
+<h2>Rush 00: Console Game & Maven - <a href="https://github.com/RatmirW/Piscine-Java/tree/main/rush00">Project_R_00</a></h2>
 <p>Takeaways: Today you will implement quite a complicated game business process using Maven build tool</p>
 <ul>
   <li>Exercise 00 – Surrender, You're Surrounded</li>
 </ul>
 <p></p>
-<h2>Rush 01: Java FX & Sockets - <a href="https://github.com/RatmirW/Piscine-Java/tree/main/rush01">Project_11</a></h2>
+<h2>Rush 01: Java FX & Sockets - <a href="https://github.com/RatmirW/Piscine-Java/tree/main/rush01">Project_R_01</a></h2>
 <p>Takeaways: Today you will implement an actual client/server game with a full-scale interface</p>
 <ul>
   <li>Exercise 00 – Tanks!</li>
