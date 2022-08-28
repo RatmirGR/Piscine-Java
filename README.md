@@ -21,7 +21,7 @@
   <li>Exercise 05 – Menu</li>
 </ul>
 <p></p>
-<h2>Day 02: IO, Filess - <a href="https://github.com/RatmirW/Piscine-Java/tree/main/d02">Project_02</a></h2>
+<h2>Day 02: IO, Files - <a href="https://github.com/RatmirW/Piscine-Java/tree/main/d02">Project_02</a></h2>
 <p>Takeways: Today you will learn how to use input/output in Java and implement programs to manipulate a file system</p>
 <ul>
   <li>Exercise 00 – File Signatures</li>
